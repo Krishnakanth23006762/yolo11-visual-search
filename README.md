@@ -34,16 +34,16 @@ Yolo_11/
 ```
 ## Application Snapshots
 
-Main Screen
+### Main Screen
 <img width="1786" height="637" alt="image" src="https://github.com/user-attachments/assets/5e34a57b-2663-4698-9ede-43b0d5079bb3" />
 
-Processing Images
+### Processing Images
 <img width="1825" height="734" alt="image" src="https://github.com/user-attachments/assets/bd6ac76e-ae50-4355-a596-795a7d0482e7" />
 
-Search Interface
+### Search Interface
 <img width="1813" height="611" alt="image" src="https://github.com/user-attachments/assets/97feb2fc-175d-49b1-963d-5cbf11fb7bff" />
 
-Search Results
+### Search Results
 <img width="1810" height="613" alt="image" src="https://github.com/user-attachments/assets/5ecd7e43-8ef0-4f5f-be6f-b27260f5557f" />
 <img width="1780" height="816" alt="image" src="https://github.com/user-attachments/assets/3b306145-d8f5-4261-9a1c-94d23505ed39" />
 <img width="1868" height="903" alt="image" src="https://github.com/user-attachments/assets/fc50fd58-a75c-4505-8e45-07532031196a" />
