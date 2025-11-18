@@ -84,6 +84,19 @@ Pillow
 
 PyYAML
 
+## Dataset
+The dataset used in this project is not included in the repository due to size limitations.  
+You can access all raw images and processed metadata from the link below:
+
+👉 **[Click Here to View/Download the Dataset](https://drive.google.com/drive/folders/1Q2x7sDBjj1cfqVx9DakbuRDo0TaDATTR?usp=drive_link)**
+
+This folder contains:
+
+- Raw Images (used for detection)  
+- Processed Metadata (JSON files generated after YOLOv11 inference)  
+- Sample Outputs  
+
+Sample Outputs
 ## License
 
 All Rights Reserved
