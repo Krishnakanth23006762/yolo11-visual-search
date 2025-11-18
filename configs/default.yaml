@@ -1,0 +1,8 @@
+model:
+  conf_threshold: 0.25
+
+data:
+  image_extension:
+    - .jpg
+    - .jpeg
+    - .png
